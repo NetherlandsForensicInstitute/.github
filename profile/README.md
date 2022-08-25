@@ -19,5 +19,5 @@ Among other things, this page is used to share datasets and software projects.
 
 ## Hansken extraction plugins
 + [Documentation for writing Hansken extraction plugins](https://netherlandsforensicinstitute.github.io/hansken-extraction-plugin-sdk-documentation/latest/)
-+ [Empty plugin (skeleton)](https://github.com/NetherlandsForensicInstitute/hansken-extraction-plugin-skeleton-python)
++ [Empty plugin (template)](https://github.com/NetherlandsForensicInstitute/hansken-extraction-plugin-template-python)
 + [Audio segmentation plugin](https://github.com/netherlandsforensicinstitute/audio-segmentation)
