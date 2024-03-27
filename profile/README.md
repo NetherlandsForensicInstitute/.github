@@ -18,7 +18,8 @@ Among other things, this page is used to share datasets and software projects.
 ## Software
 + [Confidence: Simple configuration usage module for python apps](https://github.com/NetherlandsForensicInstitute/confidence)
 + [Lir: Python Likelihood Ratio Library](https://github.com/NetherlandsForensicInstitute/lir)
-+ [Tesla logs: A collection of tools to parse and analyze Tesla vehicle logs and writeups of the reverse engineering process.](https://github.com/NetherlandsForensicInstitute/teslalogs)
++ [Tesla logs: A collection of tools to parse and analyze Tesla vehicle logs and writeups of the reverse engineering process](https://github.com/NetherlandsForensicInstitute/teslalogs)
++ [Vuurwerkverkenner: an application for recognizing exploded heavy fireworks](https://github.com/NetherlandsForensicInstitute/vuurwerkverkenner)
 
 ## Hansken extraction plugins
 + [Documentation for writing Hansken extraction plugins](https://netherlandsforensicinstitute.github.io/hansken-extraction-plugin-sdk-documentation/latest/)
