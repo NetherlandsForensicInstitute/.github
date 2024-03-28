@@ -6,7 +6,7 @@ Among other things, this page is used to share datasets and software projects.
 ## Websites
 + NFI: [forensicinstitute.nl](https://forensicinstitute.nl)
 + Hansken: [hansken.org](https://hansken.org)
-+ Come work for us! Take a look at our [open vacancies](https://www.werkenvoornederland.nl/vacatures?werkgever=01480&vakgebied=CVG.08&term=NFI).
++ Come work with us! Take a look at our [open vacancies](https://www.werkenvoornederland.nl/vacatures?werkgever=01480&vakgebied=CVG.08&term=NFI).
 
 ## Datasets
 + [LA-ICPMS measurements of elemental concentration from floatglass](https://github.com/NetherlandsForensicInstitute/elemental_composition_glass)
